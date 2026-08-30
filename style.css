@@ -119,6 +119,10 @@
 	stroke-width: 0.5;
 }
 
+.selected {
+  fill: #ff0000 !important; /* !important overrides .landxx default color */
+}
+
 /*
  * Reserved class names:
  *
